@@ -1,7 +1,8 @@
 
-            <div style="align:center"><img src="https://user-images.githubusercontent.com/94583292/145958982-c99859e5-8138-4c19-93ad-42a31140d786.png" /></div>
-<h1 align= "center">FinalProject: CHAT APP ZALOBK</h1>
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/94583292/145958982-c99859e5-8138-4c19-93ad-42a31140d786.png" width="200" title="hover text">
+<h1 align="center">FinalProject: CHAT APP ZALOBK</h1>
+</p>
 
 ## Made by Group 7 - Lone Sharks
 
