@@ -76,3 +76,13 @@
 <p align="center">
 <img src="https://github.com/MinhTri111/FinalProject/blob/main/anh/19881da933e3f9bda0f2.jpg" width="200"> &nbsp; 
 </p>
+
+### MAKE NEW FRIENDS
+<p align="center">
+<img src="https://github.com/MinhTri111/FinalProject/blob/main/anh/1a0a993e1674dc2a8565.jpg" width="200"> &nbsp; <img src="https://github.com/MinhTri111/FinalProject/blob/main/anh/d7f540d6cf9c05c25c8d.jpg" width="200"> &nbsp; <img src="https://github.com/MinhTri111/FinalProject/blob/main/anh/ffd54cfcc3b609e850a7.jpg" width="200"> &nbsp; 
+</p>
+
+### SETTING PROFILE
+<p align="center">
+<img src="https://github.com/MinhTri111/FinalProject/blob/main/anh/ab11c4f9e9b323ed7aa2.jpg" width="200"> &nbsp; 
+</p>
