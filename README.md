@@ -14,7 +14,7 @@
 - FireBase.
 - Java AndroidStudio.
 - Adobe PhotoShop CS6.
-- Project management with Trello.
+- Workflow management with Trello.
 
 ## FEATURES
 ### LOGIN, REGISTER
