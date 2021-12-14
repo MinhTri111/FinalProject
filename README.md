@@ -52,4 +52,7 @@
 
 ## DEMO APP
 
+### LOGIN, REGISTER
+<img src="https://github.com/MinhTri111/FinalProject/blob/main/anh/2296111e3c54f60aaf45.jpg" width="200"> &nbsp; <img src="https://github.com/MinhTri111/FinalProject/blob/main/anh/4ec8734c5e069458cd17.jpg" width="200"> &nbsp; 
+
 
