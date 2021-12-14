@@ -39,23 +39,21 @@
         <entry key="..\:/Users/Admin/AndroidStudioProjects/MyChatApp-master/app/src/main/res/layout/users_display_layout.xml" value="0.17527173913043478" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/MyChatApp-master/app/src/main/res/menu/menu.xml" value="0.17916666666666667" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/MyChatApp-master/app/src/main/res/menu/options_menu.xml" value="0.18" />
-        <entry key="..\:/Users/Admin/AndroidStudioProjects/MyChatApp/app/src/main/res/layout/activity_find_friend.xml" value="0.1526268115942029" />
-        <entry key="..\:/Users/Admin/AndroidStudioProjects/MyChatApp/app/src/main/res/layout/activity_group_chats.xml" value="0.12273550724637682" />
-        <entry key="..\:/Users/Admin/AndroidStudioProjects/MyChatApp/app/src/main/res/layout/activity_login2.xml" value="0.1838768115942029" />
-        <entry key="..\:/Users/Admin/AndroidStudioProjects/MyChatApp/app/src/main/res/layout/activity_main.xml" value="0.1838768115942029" />
-        <entry key="..\:/Users/Admin/AndroidStudioProjects/MyChatApp/app/src/main/res/layout/activity_profile.xml" value="0.1838768115942029" />
-        <entry key="..\:/Users/Admin/AndroidStudioProjects/MyChatApp/app/src/main/res/layout/activity_register2.xml" value="0.12273550724637682" />
-        <entry key="..\:/Users/Admin/AndroidStudioProjects/MyChatApp/app/src/main/res/layout/activity_settings.xml" value="0.1838768115942029" />
-        <entry key="..\:/Users/Admin/AndroidStudioProjects/MyChatApp/app/src/main/res/layout/activity_start.xml" value="0.1838768115942029" />
-        <entry key="..\:/Users/Admin/AndroidStudioProjects/MyChatApp/app/src/main/res/layout/app_bar_layout.xml" value="0.1838768115942029" />
-        <entry key="..\:/Users/Admin/AndroidStudioProjects/MyChatApp/app/src/main/res/layout/custom_chat_bar.xml" value="0.1838768115942029" />
-        <entry key="..\:/Users/Admin/AndroidStudioProjects/MyChatApp/app/src/main/res/layout/custom_message_layout.xml" value="0.1838768115942029" />
-        <entry key="..\:/Users/Admin/AndroidStudioProjects/MyChatApp/app/src/main/res/layout/fragment_chats2.xml" value="0.1838768115942029" />
-        <entry key="..\:/Users/Admin/AndroidStudioProjects/MyChatApp/app/src/main/res/layout/fragment_request.xml" value="0.1838768115942029" />
-        <entry key="..\:/Users/Admin/AndroidStudioProjects/MyChatApp/app/src/main/res/layout/receiver_messages_layout.xml" value="0.1838768115942029" />
-        <entry key="..\:/Users/Admin/AndroidStudioProjects/MyChatApp/app/src/main/res/layout/users_display_layout.xml" value="0.1838768115942029" />
-        <entry key="..\:/Users/Admin/AndroidStudioProjects/MyChatApp/app/src/main/res/menu/options_menu.xml" value="0.20416666666666666" />
-        <entry key="..\:/Users/Admin/AndroidStudioProjects/MyChatApp/app/src/main/res/menu/search_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/LAPTOP/AndroidProject/bigprojectAndroid-main/bigprojectAndroid-main/app/src/main/res/layout/activity_chat.xml" value="0.11730072463768115" />
+        <entry key="..\:/Users/LAPTOP/AndroidProject/bigprojectAndroid-main/bigprojectAndroid-main/app/src/main/res/layout/activity_find_friend.xml" value="0.2028985507246377" />
+        <entry key="..\:/Users/LAPTOP/AndroidProject/bigprojectAndroid-main/bigprojectAndroid-main/app/src/main/res/layout/activity_login2.xml" value="0.11730072463768115" />
+        <entry key="..\:/Users/LAPTOP/AndroidProject/bigprojectAndroid-main/bigprojectAndroid-main/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/LAPTOP/AndroidProject/bigprojectAndroid-main/bigprojectAndroid-main/app/src/main/res/layout/activity_profile.xml" value="0.2028985507246377" />
+        <entry key="..\:/Users/LAPTOP/AndroidProject/bigprojectAndroid-main/bigprojectAndroid-main/app/src/main/res/layout/activity_register2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/LAPTOP/AndroidProject/bigprojectAndroid-main/bigprojectAndroid-main/app/src/main/res/layout/activity_settings.xml" value="0.2028985507246377" />
+        <entry key="..\:/Users/LAPTOP/AndroidProject/bigprojectAndroid-main/bigprojectAndroid-main/app/src/main/res/layout/app_bar_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/LAPTOP/AndroidProject/bigprojectAndroid-main/bigprojectAndroid-main/app/src/main/res/layout/fragment_chats2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/LAPTOP/AndroidProject/bigprojectAndroid-main/bigprojectAndroid-main/app/src/main/res/layout/fragment_contacs.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/LAPTOP/AndroidProject/bigprojectAndroid-main/bigprojectAndroid-main/app/src/main/res/layout/fragment_groups.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/LAPTOP/AndroidProject/bigprojectAndroid-main/bigprojectAndroid-main/app/src/main/res/layout/fragment_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/LAPTOP/AndroidProject/bigprojectAndroid-main/bigprojectAndroid-main/app/src/main/res/layout/fragment_request.xml" value="0.11730072463768115" />
+        <entry key="..\:/Users/LAPTOP/AndroidProject/bigprojectAndroid-main/bigprojectAndroid-main/app/src/main/res/layout/receiver_messages_layout.xml" value="0.11730072463768115" />
+        <entry key="..\:/Users/LAPTOP/AndroidProject/bigprojectAndroid-main/bigprojectAndroid-main/app/src/main/res/layout/users_display_layout.xml" value="0.11730072463768115" />
       </map>
     </option>
   </component>

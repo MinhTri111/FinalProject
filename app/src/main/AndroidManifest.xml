@@ -14,28 +14,28 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheming">
         <activity
-            android:name=".views.ChatActivity"
+            android:name=".ChatActivity"
             android:exported="true"
             android:parentActivityName=".MainActivity"/>
         <activity
-            android:name=".views.ProfileActivity"
+            android:name=".ProfileActivity"
             android:exported="true" />
         <activity
             android:name=".FindFriendActivity"
             android:exported="true"
             android:parentActivityName=".MainActivity" />
         <activity
-            android:name=".views.GroupChatsActivity"
+            android:name=".GroupChatsActivity"
             android:exported="true" />
         <activity
-            android:name=".views.SettingsActivity"
+            android:name=".SettingsActivity"
             android:exported="true"
             android:parentActivityName=".MainActivity" />
         <activity
-            android:name=".views.RegisterActivity"
+            android:name=".RegisterActivity"
             android:exported="true" />
         <activity
-            android:name=".views.LoginActivity"
+            android:name=".LoginActivity"
             android:exported="true" />
         <activity
             android:name=".MainActivity"

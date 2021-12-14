@@ -10,13 +10,15 @@
         android:id="@+id/custom_profile_image"
         android:layout_width="47dp"
         android:layout_height="47dp"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentEnd="true"
-        android:layout_marginRight="10dp"
-        android:cropToPadding="true"
         android:src="@drawable/profile_image"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:cropToPadding="true"
+        android:layout_marginRight="10dp"
 
         >
+
+
 
 
     </de.hdodenhof.circleimageview.CircleImageView>

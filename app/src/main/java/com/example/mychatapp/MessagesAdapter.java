@@ -10,7 +10,6 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.mychatapp.model.Messages;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
@@ -43,13 +42,9 @@ public class MessagesAdapter extends RecyclerView.Adapter<MessagesAdapter.Messag
 
     @Override
     public void onBindViewHolder(@NonNull MessagesViewHolder holder, int position) {
-        /* lấy id của người gửi*/
         String messageSenderID = mAuth.getCurrentUser().getUid();
-        /* lấy id hàng đang xét hiện tại trong recycleview*/
         Messages messages = userMessagesList.get(position);
-        /* lấy id trong đc lưu trên firebase trong thông số from*/
         String fromUserID = messages.getFrom();
-        /* Lấy kiểu tin nhắn*/
         String fromMessagesType = messages.getType();
         usersDatabaseRef = FirebaseDatabase.getInstance().getReference().child("Users").child(fromUserID);
         usersDatabaseRef.addValueEventListener(new ValueEventListener() {

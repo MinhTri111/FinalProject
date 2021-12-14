@@ -1,4 +1,4 @@
-package com.example.mychatapp.views;
+package com.example.mychatapp;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -15,8 +15,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.example.mychatapp.MainActivity;
-import com.example.mychatapp.R;
+import com.bumptech.glide.load.engine.Initializable;
+import com.google.android.gms.tasks.Continuation;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.android.gms.tasks.Task;

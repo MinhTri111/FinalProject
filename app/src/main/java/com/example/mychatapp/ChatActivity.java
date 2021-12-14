@@ -1,4 +1,4 @@
-package com.example.mychatapp.views;
+package com.example.mychatapp;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -15,6 +15,7 @@ import android.content.DialogInterface;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
+import android.os.Message;
 import android.text.TextUtils;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -23,9 +24,6 @@ import android.widget.ImageButton;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.mychatapp.MessagesAdapter;
-import com.example.mychatapp.R;
-import com.example.mychatapp.model.Messages;
 import com.google.android.gms.tasks.Continuation;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
@@ -287,7 +285,7 @@ public class ChatActivity extends AppCompatActivity {
                             String date = snapshot.child("userState").child("date").getValue().toString();
                             String time = snapshot.child("userState").child("time").getValue().toString();
                             if(state.equals("online")){
-                                userLastseen.setText("Action");
+                                userLastseen.setText("Last Seen: "+"\n"+"Date"+"Time");
                             }
                             else if(state.equals("offline")){
                                 userLastseen.setText("Last Seen: "+date+" "+time);
@@ -339,8 +337,8 @@ public class ChatActivity extends AppCompatActivity {
             messageTextBody.put("from",messageSenderID);
             messageTextBody.put("to",messageReceiverID);
             messageTextBody.put("messageID",messagePushId);
-            messageTextBody.put("time",saveCurrenTime);
-            messageTextBody.put("date",saveCurrenDate);
+           messageTextBody.put("time",saveCurrenTime);
+          messageTextBody.put("date",saveCurrenDate);
 
 
 
