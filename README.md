@@ -57,3 +57,12 @@
 <img src="https://github.com/MinhTri111/FinalProject/blob/main/anh/2296111e3c54f60aaf45.jpg" width="200"> &nbsp; <img src="https://github.com/MinhTri111/FinalProject/blob/main/anh/4ec8734c5e069458cd17.jpg" width="200"> &nbsp; 
 </p>
 
+### CHAT WITH FRIEND
+<p align="center">
+<img src="https://github.com/MinhTri111/FinalProject/blob/main/anh/3aabb3379e7d54230d6c.jpg" width="200"> &nbsp; <img src="https://github.com/MinhTri111/FinalProject/blob/main/anh/391c468a6bc0a19ef8d1.jpg" width="200"> &nbsp; 
+</p>
+
+### CHAT WITH GROUP
+<p align="center">
+<img src="https://github.com/MinhTri111/FinalProject/blob/main/anh/71a56e7b4331896fd020.jpg" width="200"> &nbsp; <img src="https://github.com/MinhTri111/FinalProject/blob/main/anh/391c468a6bc0a19ef8d1.jpg" width="200"> &nbsp; 
+</p>
