@@ -74,5 +74,5 @@
 
 ### VIEW REQUEST
 <p align="center">
-<img src="https://github.com/MinhTri111/FinalProject/blob/main/anh/8cc0f8eed6a41cfa45b5.jpg" width="200"> &nbsp; <img src="https://github.com/MinhTri111/FinalProject/blob/main/anh/Picture1.png" width="200"> &nbsp; 
+<img src="https://github.com/MinhTri111/FinalProject/blob/main/anh/19881da933e3f9bda0f2.jpg" width="200"> &nbsp; 
 </p>
