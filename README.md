@@ -69,7 +69,7 @@
 
 ### VIEW ALL FRIENDS AND FIND FRIENDS
 <p align="center">
-<img src="https://github.com/MinhTri111/FinalProject/blob/main/anh/8cc0f8eed6a41cfa45b5.jpg" width="200"> &nbsp; <img src="https://github.com/MinhTri111/FinalProject/blob/main/anh/Picture1.png" width="200"> &nbsp; 
+<img src="https://github.com/MinhTri111/FinalProject/blob/main/anh/8cc0f8eed6a41cfa45b5.jpg" width="200"> &nbsp; <img src="https://github.com/MinhTri111/FinalProject/blob/main/anh/a0c870f7e8bd22e37bac.jpg" width="200"> &nbsp; 
 </p>
 
 ### VIEW REQUEST
