@@ -1,7 +1,6 @@
 
-											![Logo](https://user-images.githubusercontent.com/94583292/145958982-c99859e5-8138-4c19-93ad-42a31140d786.png)
-
-                        	# FinalProject: CHAT APP ZALOBK
+![Logo]                                                                      (https://user-images.githubusercontent.com/94583292/145958982-c99859e5-8138-4c19-93ad-42a31140d786.png)
+#                                                                FinalProject: CHAT APP ZALOBK
 
 ## Made by Group 7 - Lone Sharks
 
@@ -46,3 +45,4 @@
 - Setting state.
 ### CREATE NEW GROUP
 - Create new group chat.
+
