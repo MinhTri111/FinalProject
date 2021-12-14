@@ -64,12 +64,12 @@
 
 ### CHAT WITH GROUP
 <p align="center">
-<img src="https://github.com/MinhTri111/FinalProject/blob/main/anh/71a56e7b4331896fd020.jpg" width="200"> &nbsp; <img src="https://github.com/MinhTri111/FinalProject/blob/main/anh/Picture1.png" width="200"> &nbsp; 
+<img src="https://github.com/MinhTri111/FinalProject/blob/main/anh/71a56e7b4331896fd020.jpg" width="200"> &nbsp; <img src="https://github.com/MinhTri111/FinalProject/blob/main/anh/e10ce1ad7fe7b5b9ecf6.jpg" width="200"> &nbsp; 
 </p>
 
 ### VIEW ALL FRIENDS AND FIND FRIENDS
 <p align="center">
-<img src="https://github.com/MinhTri111/FinalProject/blob/main/anh/8cc0f8eed6a41cfa45b5.jpg" width="200"> &nbsp; <img src="https://github.com/MinhTri111/FinalProject/blob/main/anh/e10ce1ad7fe7b5b9ecf6.jpg" width="200"> &nbsp; 
+<img src="https://github.com/MinhTri111/FinalProject/blob/main/anh/8cc0f8eed6a41cfa45b5.jpg" width="200"> &nbsp; <img src="https://github.com/MinhTri111/FinalProject/blob/main/anh/Picture1.png" width="200"> &nbsp; 
 </p>
 
 ### VIEW REQUEST
