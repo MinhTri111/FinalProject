@@ -64,5 +64,5 @@
 
 ### CHAT WITH GROUP
 <p align="center">
-<img src="https://github.com/MinhTri111/FinalProject/blob/main/anh/71a56e7b4331896fd020.jpg" width="200"> &nbsp; <img src="https://github.com/MinhTri111/FinalProject/blob/main/anh/391c468a6bc0a19ef8d1.jpg" width="200"> &nbsp; 
+<img src="https://github.com/MinhTri111/FinalProject/blob/main/anh/71a56e7b4331896fd020.jpg" width="200"> &nbsp; <img src="https://github.com/MinhTri111/FinalProject/blob/main/anh/Picture1.png" width="200"> &nbsp; 
 </p>
