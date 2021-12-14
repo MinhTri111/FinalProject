@@ -86,3 +86,8 @@
 <p align="center">
 <img src="https://github.com/MinhTri111/FinalProject/blob/main/anh/ab11c4f9e9b323ed7aa2.jpg" width="200"> &nbsp; 
 </p>
+
+### CREATE NEW GROUP
+<p align="center">
+<img src="https://github.com/MinhTri111/FinalProject/blob/main/anh/6b632b37a87d62233b6c.jpg" width="200"> &nbsp; 
+</p>
