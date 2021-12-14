@@ -7,8 +7,8 @@
 ## Made by Group 7 - Lone Sharks
 
 ## Team member
-- Bùi Duy Phương.
-- Phan Hữu Minh Trí.
+- Bùi Duy Phương. 19TCLCNhat1
+- Phan Hữu Minh Trí. 19TCLCNhat1
 
 ## Built With
 - FireBase.
