@@ -13,6 +13,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
+import com.example.mychatapp.model.Contacts;
+import com.example.mychatapp.views.ChatActivity;
 import com.firebase.ui.database.FirebaseRecyclerAdapter;
 import com.firebase.ui.database.FirebaseRecyclerOptions;
 import com.google.firebase.auth.FirebaseAuth;
@@ -83,7 +85,7 @@ public class ChatsFragment extends Fragment {
                                 String date = snapshot.child("userState").child("date").getValue().toString();
                                 String time = snapshot.child("userState").child("time").getValue().toString();
                                 if(state.equals("online")){
-                                    holder.userStatus.setText("Last Seen: "+"\n"+"Date"+"Time");
+                                    holder.userStatus.setText("Action");
                                 }
                                 else if(state.equals("offline")){
                                     holder.userStatus.setText("Last Seen: "+date+" "+time);
@@ -100,7 +102,7 @@ public class ChatsFragment extends Fragment {
                             holder.itemView.setOnClickListener(new View.OnClickListener() {
                                 @Override
                                 public void onClick(View view) {
-                                    Intent chatIntent = new Intent(getContext(),ChatActivity.class);
+                                    Intent chatIntent = new Intent(getContext(), ChatActivity.class);
                                     chatIntent.putExtra("visit_user_id",usersID);
                                     chatIntent.putExtra("visit_user_name",retName);
                                     chatIntent.putExtra("visit_image", retImage[0]);

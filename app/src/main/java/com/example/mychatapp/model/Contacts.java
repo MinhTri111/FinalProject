@@ -1,4 +1,4 @@
-package com.example.mychatapp;
+package com.example.mychatapp.model;
 
 public class Contacts {
     public String name,status,image;

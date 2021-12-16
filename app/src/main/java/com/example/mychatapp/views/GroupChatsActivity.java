@@ -1,4 +1,4 @@
-package com.example.mychatapp;
+package com.example.mychatapp.views;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -7,15 +7,14 @@ import androidx.appcompat.widget.Toolbar;
 
 import android.os.Bundle;
 import android.text.TextUtils;
-import android.view.Display;
 import android.view.View;
-import android.widget.CalendarView;
 import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.ScrollView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.example.mychatapp.R;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.database.ChildEventListener;
 import com.google.firebase.database.DataSnapshot;
